@@ -43,7 +43,6 @@
   <h3>Operating systems</h3>
   <img align="center" alt="VScode" height="30" width="100" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
   <img align="center" alt="Chris-AWS" height="30" width="100" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
-  <img style="margin-top: 4px" align="center" alt="Chris-AWS" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
 </div>
 
 ## GitHub Stats
