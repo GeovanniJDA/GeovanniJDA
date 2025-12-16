@@ -13,7 +13,7 @@
 <details>
   <summary> 👨‍💻 More about me</summary>
 
-  - I'm 23 years old, currently living in Brasil. I have rellative fluency in English and basic knowledge of Spanish, I have experience in CSS and JavaScript.
+  - I'm 24 years old, currently living in Brasil. I have rellative fluency in English and basic knowledge of Spanish, I have experience in CSS and JavaScript.
 
   - I like watching movies,playing games and researching open-source apps! I believe that our personal interests contribute to the emergence of new ideas, solving problems, and making the world better.
 
